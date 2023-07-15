@@ -14,5 +14,7 @@ public class GitDemoApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("hello hermon");
+
+		System.out.println("luwam was here too say hello");
 	}
 }
